@@ -7,3 +7,6 @@ def testFun():
 
 # These are the changes pushing from mac book
 print('my name is Phani')
+
+# new changes from notepad to test whether it is working or not
+print('notepad')
