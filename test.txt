@@ -1,1 +1,6 @@
+# Below statement displays hello world
 print('Hello World!')
+
+#below is a function initialization
+def testFun():
+  pass
